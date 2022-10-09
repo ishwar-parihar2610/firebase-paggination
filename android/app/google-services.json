@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1070804224791",
+    "project_id": "whatapp-clone-10f04",
+    "storage_bucket": "whatapp-clone-10f04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070804224791:android:c13210c3fe4a598155c552",
+        "android_client_info": {
+          "package_name": "com.example.wallpaper_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070804224791-c32visntv1s9ba3v5p4lkhuh858jl9bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD226zNAo5OrjV4nbyRlW8PI9Q-99TO7Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070804224791-c32visntv1s9ba3v5p4lkhuh858jl9bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070804224791:android:61a7bc6831a55fb255c552",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070804224791-n119uhbutmq4ibvurcov8qh7agnlo79q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapp_clone",
+            "certificate_hash": "59aafc8ab2011b48aa946c6599cbd33941ad17c1"
+          }
+        },
+        {
+          "client_id": "1070804224791-c32visntv1s9ba3v5p4lkhuh858jl9bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD226zNAo5OrjV4nbyRlW8PI9Q-99TO7Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070804224791-c32visntv1s9ba3v5p4lkhuh858jl9bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
